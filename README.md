@@ -1,1 +1,1 @@
-# nest-react-monorepo-template
+# next-nest-monorepo-template
